@@ -1,7 +1,7 @@
 # Ariadna Modular System Triple CAN to USB adapter module
 <img align="center" height="300" src="https://github.com/user-attachments/assets/f395d14b-bf23-4ec0-978b-6898816ab930">&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" height="300" src="https://github.com/user-attachments/assets/207fdf1d-77cd-42f1-a5f3-5fc3c6501cd7">&nbsp;&nbsp;&nbsp;&nbsp;
-## Project Status: **Compleated**  
+## Project Status: **completed**  
 REVISION B
 **Design** ✅ — **Fabrication** ✅ — **Assembly** ✅ — **Bringup** ✅ — **Testing** ✅  
 ## Key technologies:
