@@ -35,7 +35,7 @@ ModuCard OrangePie -> https://github.com/ArthorH/ModuCard-OrangePie
 - AS5048 Nema Adapter -> https://github.com/ArthorH/AS5048-Nema-Adapter
 - OdriveShield -> https://github.com/ArthorH/AriadnaModularSystem-OdriveShield
 - PrototypeBoard -> https://github.com/ArthorH/AriadnaModularSystem-PrototypeBoard
-- Can Triplet -> https://github.com/ArthorH/AriadnaModularSystem-CanTriplet
+- Can Triplet -> https://github.com/ArthorH/AriadnaModularSystem-CanTriplet <---- You are here
 - RapsberryPie -> https://github.com/ArthorH/AriadnaModularSystem-RapsberryPie
 
 ## Author
