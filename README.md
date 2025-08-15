@@ -30,6 +30,8 @@ Or just standalone usage using multiplexed port on top.
 ModuCard OrangePie -> https://github.com/ArthorH/ModuCard-OrangePie
 
 # Interested in AMS? Here's other projects:
+<img width="802" height="545" alt="image" src="https://github.com/user-attachments/assets/be7b5e9f-19d5-46d5-8946-2a3e414f6ed0" />
+
 - Backplane -> https://github.com/ArthorH/AriadnaModularSystem-Backplane
 - Power Injector -> https://github.com/ArthorH/AriadnaModularSystem-PowerInjector
 - AS5048 Nema Adapter -> https://github.com/ArthorH/AS5048-Nema-Adapter
